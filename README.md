@@ -17,4 +17,4 @@ Calling sub-functions:
 -	Cal_tranGraf.m : Analytic formula method for calculating the gravity of a cube
 
 
-Note: See code comments for detailed parameters.
+Note: See code comments for detailed parameters. *** Related results are being submitted to computer & Geoscience ***
